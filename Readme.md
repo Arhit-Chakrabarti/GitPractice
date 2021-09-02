@@ -1,6 +1,6 @@
 This is my test file to illustrate version control and markdown.  This is **bold**. This is *cursive*. This is a list
 
-  * list 1
-  * list 2
+  * list 1 - important
+  * list 2 - not important
 
 Here is another sentence
